@@ -3,19 +3,19 @@ Building deep learning models can be very computationally expensive and time-con
 
 ## Dataset
 
-Dataset Used: [[Link to dataset or description]](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data)
+Dataset Used: [[Link to dataset on Kaggle]](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data)
 
 The dataset includes images of garbage items classified into 5 categories:
 
-Plastic
+- Plastic
 
-Paper
+- Paper
 
-Glass
+- Glass
 
-Metal
+- Metal
 
-Trash
+- Trash
 
 ## Before we start with the project... what is Transfer Learning?
 Transfer learning is a machine learning technique where knowledge acquired from one task is reused to improve performance on another task. By using a model like MobileNetV2, trained on a large, general dataset, we can fine-tune it for a similar, specific task. This approach saves time, computational resources, and data requirements while achieving high accuracy
